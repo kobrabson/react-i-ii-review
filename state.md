@@ -4,15 +4,23 @@ Answer these on your own, then compare answers as a group
 
 1.  What is state?
 
+  data
+
 2.  Where do you set initial state?
 
+  in the constrtor 
+
 3.  What method do you use to update state?
+
+  setState
 
 ### Understand
 
 Discuss this question in pairs if you have a 4-person group
 
 4.  Explain what's happening in this component.
+
+button clicked update by 1
 
 ```jsx
 import React, { Component } from "react";
